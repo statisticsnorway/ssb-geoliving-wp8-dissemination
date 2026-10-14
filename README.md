@@ -1,16 +1,10 @@
-# \<repo-navn>
-Beskriv hva repoet inneholder.
+# GeoLiving - Dissemination
+<img width="1280" height="640" alt="ssb-geoliving-wp8-dissemination-social-preview" src="https://github.com/user-attachments/assets/402836cd-7e2c-4d1f-862e-c81e2fa607a3" />
 
-## Hvorfor er ikke dette repoet public?
-Denne overskriften og tilhørende avsnitt slettes hvis repoet er public. (Husk at for public repoer finnes det [krav](https://github.com/statisticsnorway/adr/blob/main/docs/0006-aapen-kildekode-i-ssb.md#kriterier-for-%C3%A5pen-kildekode) som må oppfylles.)
+## Background
+Effective dissemination is a critical component of any project funded under the Eurostat framework, ensuring that the results, methodologies, and innovations reach all relevant stakeholders, including statistical authorities, policymakers, researchers, and the general public. Dissemination activities enhance transparency, foster data reuse, support informed decision-making, and promote harmonisation across the European Statistical System (ESS).
 
-I følge [Retningslinjer for åpen kildekode i SSB](https://github.com/statisticsnorway/adr/blob/main/docs/0006-aapen-kildekode-i-ssb.md)
-gjelder følgende:
-
-> "All kode i SSB skal som standard være allment tilgjengelig (åpen kildekode). Det
-gjøres unntak for kode som beskriver SSB spesifikke infrastrukturdetaljer,
-konfigurasjon av applikasjoner og annen kode som teamet vurderer til å ikke være åpen
-grunnet sikkerhetsmessige risikoer. ... Kodelagre som vurderes til ikke å være åpne
-skal ha et avsnitt i README hvor beslutningen begrunnes så konkret som mulig."
-
-\<Begrunnelse for hvorfor dette repoet ikke er public>
+## Objectives
+This work package will address the need to communicate project outcomes in a clear, accessible, and timely manner, using a variety of channels tailored to different target audiences. In alignment with Eurostat’s emphasis on open data and user engagement, the dissemination strategy will promote accessibility, usability, and visibility of the project’s outputs.
+The Dissemination work package will also contribute to the long-term impact and sustainability of the project by facilitating knowledge transfer and encouraging the adoption of methodologies and tools developed. It will be closely coordinated with other work packages to ensure that dissemination is integrated into the overall project lifecycle, from early awareness-raising to post-project sharing of final results.
+Dissemination activities will follow best practices in data visualisation, digital communication, and stakeholder outreach, and will respect applicable legal and ethical standards, including data confidentiality and copyright.
