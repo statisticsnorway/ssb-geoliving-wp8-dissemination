@@ -1,0 +1,17 @@
+{
+  "template": "https://github.com/statisticsnorway/ssb-project-template-stat.git",
+  "commit": "f4e65906f8ee96999928837c117bc62a604c753c",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Vilni Verne Holst Bloch",
+      "email": "vvh@ssb.no",
+      "project_name": "ssb-geoliving-wp8-dissemination",
+      "description": "3",
+      "license_year": "2026",
+      "_template": "https://github.com/statisticsnorway/ssb-project-template-stat.git",
+      "_commit": "f4e65906f8ee96999928837c117bc62a604c753c"
+    }
+  },
+  "directory": null
+}
